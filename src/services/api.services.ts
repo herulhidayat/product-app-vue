@@ -1,29 +1,30 @@
 import { useLocalStorage } from "@vueuse/core";
 import axios from "axios";
 
+const token = useLocalStorage("access_token", null);
+
 // Base URL API
 const api = axios.create({
   baseURL: "/api",
   headers: {
     "apikey": import.meta.env.VITE_SUPABASE_PUBLIC_API_KEY,
-    "Content-Type": "application/json",
   },
 });
 
 // Tambahkan Interceptor untuk Request
 api.interceptors.request.use(
   (config) => {
-    const token = useLocalStorage("token", null).value;
 
-    if (token) {
-      config.headers.Authorization = `Bearer ${token}`;
+    if (token.value) {
+      // config.headers["apikey"] = token;
+      config.headers.Authorization = `Bearer ${token.value}`;
       config.headers.Prefer = "return=minimal";
     }
     
-    if (!(config.data instanceof FormData)) {
-      config.headers['Content-Type'] = 'application/json';
+     if (config.data instanceof FormData) {
+      delete config.headers?.["Content-Type"];
     } else {
-      delete config.headers['Content-Type'];
+      config.headers["Content-Type"] = "application/json";
     }
 
     return config;
@@ -34,7 +35,15 @@ api.interceptors.request.use(
 // Tambahkan Interceptor untuk Response
 api.interceptors.response.use(
   (response) => response, // Jika response sukses, langsung dikembalikan
-  (error) => {
+  async (error) => {
+    if(error.response && error.response.status === 401) {
+      // Handle Unauthorized Error (401)
+      if (token.value) {
+        token.value = null;
+      }
+      window.location.href = "/login";
+    }
+      
     return Promise.reject(error);
   }
 );

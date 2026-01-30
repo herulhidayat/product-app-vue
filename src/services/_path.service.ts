@@ -3,5 +3,8 @@ export const API_PATH = () => {
   
     return {
       login: `${supabaseUrl}/auth/v1/token`,
+      widget: {
+        topPerson: `${supabaseUrl}/rest/v1/conversation_topPerson?select=*`
+      }
     }
 }

@@ -5,3 +5,71 @@
 body {
     @apply dark:bg-gray-900;
 }
+
+@layer utilities {
+  /* Webkit-specific styles for Chrome, Safari, Edge, Opera */
+  ::-webkit-scrollbar {
+    scrollbar-width: thin; /* auto or thin */
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent; /* Tailwind bg-gray-100 */
+    border-radius: 100vh;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #55555555; /* A lighter gray */
+    border-radius: 100vh;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #88888888; /* A darker gray on hover */
+  }
+}
+
+
+/** MAX LINE TEXT */
+.max-lines-1 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 1;
+  max-height: 1 * 1.5em;
+}
+
+.max-lines-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  max-height: 2 * 1.5em;
+}
+
+.max-lines-3 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  max-height: 3 * 1.5em;
+}
+
+.max-lines-4 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  max-height: 4 * 1.5em;
+}
+
+.max-lines-5 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 5;
+  max-height: 5 * 1.5em;
+}
