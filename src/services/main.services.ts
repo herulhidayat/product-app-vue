@@ -3,9 +3,9 @@ import api from "./api.services"
 import { type Ref } from "vue"
 
 export function useApiRequest() {
-  function postRequest(pathUrl: Ref<string>, params: Ref<any>) {
+  function postRequest(pathUrl: string, params: any | Ref<any>) {
     const fetch = async () => {
-      const res = await api.post(pathUrl.value, params.value)
+      const res = await api.post(pathUrl, params.value)
 
       return res.data
     }

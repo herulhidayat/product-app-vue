@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, watch } from 'vue';
+import { onMounted } from 'vue';
 import { useApiRequest } from '../../services/main.services';
 import { API_PATH } from '../../services/_path.service';
 import { formatThousand } from '../../helper/number.helper';
@@ -11,13 +11,6 @@ const request = getRequest(API_PATH().widget.topPerson);
 onMounted(() => {
   request.execute();
 });
-
-watch(request.data, () => {
-  console.log('data updated:', request.data.value);
-})
-watch(request.isLoading, () => {
-  console.log('loading state:', request.isLoading.value);
-})
 </script>
 
 <template>
