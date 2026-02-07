@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import * as echarts from 'echarts'
-import { ref, watch, onMounted, onUnmounted, nextTick, type Ref } from 'vue'
+import { ref, watch, onMounted, onUnmounted, nextTick, type Ref, shallowRef } from 'vue'
 import { useDark, useDebounceFn } from '@vueuse/core'
 import { DARK_THEME, LIGHT_THEME } from './config/echarts-theme.config'
 
@@ -13,7 +13,7 @@ interface Props {
 const props = defineProps<Props>()
 
 const chartRef = ref<HTMLDivElement | null>(null)
-const chartInstance = ref<echarts.ECharts | null>(null)
+const chartInstance = shallowRef<echarts.ECharts | null>(null)
 const chartOptions = ref<any>(null)
 
 const isDark = useDark()
@@ -27,7 +27,6 @@ function initChart() {
   const theme = isDark.value ? 'dark' : 'light'
   chartInstance.value = echarts.init(chartRef.value, theme)
 
-    console.log('opt 1', chartOptions.value)
   if (chartOptions.value) {
     chartInstance.value.setOption(chartOptions.value)
   }
@@ -35,7 +34,7 @@ function initChart() {
 
 function updateChart(options: any) {
   if (!chartInstance.value || !options) return
-  console.log('opt 3', options)
+  handleResize()
   chartInstance.value.setOption(options, {
     notMerge: true,
     lazyUpdate: true,
@@ -59,14 +58,12 @@ function changeTheme() {
 }
 
 const handleResize = useDebounceFn(() => {
-  console.log('Resizing chart...')
   chartInstance.value?.resize()
 }, 100)
 
 watch(
   () => props.options,
   (newOptions) => {
-    console.log('opt 4', newOptions)
     if (!newOptions) return
 
     chartOptions.value = newOptions
