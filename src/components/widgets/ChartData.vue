@@ -5,11 +5,12 @@ import { flatModel, flatModelDate, flatModelDateMoment, flatModelTimeMoment, fla
 import { getChartOptionsAreaSeries, getChartOptionsLineChartData } from '../modules/echarts/parser/line.parser';
 import { computed, toRaw, watch } from 'vue';
 import Echarts from '../modules/echarts/Echarts.vue';
+import { getChartOptionsPieData } from '../modules/echarts/parser/pie.parser';
 
 interface IChartData {
   name?: string;
   url: string | '';
-  parserChart: 'line.default' | 'line.area';
+  parserChart: 'line.default' | 'line.area' | 'pie.default';
   parserData: 'flat.default' | 'flat.date-alternate' | 'flat.date' | 'flat.time' | 'flat.year' | 'stack.default' | 'stack.nested' | 'stack.date';
   params?: any;
   interval?: 'hour' | 'day' | 'month' | 'year';
@@ -31,6 +32,9 @@ const parserChart:any = {
   line: {
     default: getChartOptionsLineChartData,
     area: getChartOptionsAreaSeries
+  },
+  pie: {
+    default: getChartOptionsPieData
   }
 }
 

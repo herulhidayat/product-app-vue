@@ -6,6 +6,7 @@ export const API_PATH = () => {
       widget: {
         topPerson: `${supabaseUrl}/rest/v1/conversation_topPerson?select=*`,
         exposure: `${supabaseUrl}/rest/v1/conversation_exposure?select=*`,
+        sentiment: `${supabaseUrl}/rest/v1/conversation_sentiment?select=*`,
       }
     }
 }
