@@ -27,7 +27,6 @@ export const getChartOptionsPieData = ({
     tooltip: {
       trigger: 'item',
       formatter: function (params: any) {
-        console.log(params);
         return `${params.seriesName || params.name}<br />
               ${params?.marker} ${params.name}: (${params?.value}) ${params.percent}%`;
       },
