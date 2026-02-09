@@ -3,6 +3,7 @@ import CardWidget from '../components/cards/CardWidget.vue';
 import MainLayout from '../components/layouts/MainLayout.vue';
 import ChartData from '../components/widgets/ChartData.vue';
 import ListPerson from '../components/widgets/ListPerson.vue';
+import MapboxSimple from '../components/widgets/MapboxSimple.vue';
 import { API_PATH } from '../services/_path.service';
 
 
@@ -35,8 +36,12 @@ import { API_PATH } from '../services/_path.service';
         </CardWidget>
       </div>
       <div class="col-span-3">
-        <CardWidget title="Topic Location" subtitle="The most talked location in social media" class-body="p-0">
-          Map
+        <CardWidget title="Topic Location" subtitle="The most talked location in social media" class-body="p-0 h-[50rem]">
+          <MapboxSimple
+            :url=API_PATH().widget.topicLocation
+            id="topic-location"
+            layer-type="polygon"
+          />
         </CardWidget>
       </div>
     </div>
