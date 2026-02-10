@@ -1,0 +1,765 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.603178578,
+                    -6.920222691
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Jawa Barat",
+                "provinceCode": "32",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 55,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.731664623,
+                    -7.720863007
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Jawa Timur",
+                "provinceCode": "35",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 62,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.838925924,
+                    -6.208392323
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Dki Jakarta",
+                "provinceCode": "31",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 74,
+                "alertLevel": "tinggi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.200862521,
+                    -7.259744508
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Jawa Tengah",
+                "provinceCode": "33",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 75,
+                "alertLevel": "tinggi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.053883933,
+                    2.191625815
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sumatera Utara",
+                "provinceCode": "12",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 45,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.162710351,
+                    -3.727356002
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sulawesi Selatan",
+                "provinceCode": "73",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 53,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.110041486,
+                    -6.456299176
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Banten",
+                "provinceCode": "36",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 60,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.911604141,
+                    4.225557698
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Aceh",
+                "provinceCode": "11",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 50,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.467314177,
+                    -0.850048351
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sumatera Barat",
+                "provinceCode": "13",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 41,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.956252,
+                    0.324227
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kalimantan Timur",
+                "provinceCode": "64",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 56,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.108895,
+                    1.285528
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kepulauan Riau",
+                "provinceCode": "21",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 47,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.170352948,
+                    -3.217507279
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sumatera Selatan",
+                "provinceCode": "16",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 42,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.132142837,
+                    -8.369650384
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Bali",
+                "provinceCode": "51",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 48,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.80808252,
+                    0.509717442
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Riau",
+                "provinceCode": "14",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 50,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.417653182,
+                    -1.602320199
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kalimantan Tengah",
+                "provinceCode": "62",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 50,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.99577,
+                    -5.206114
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Lampung",
+                "provinceCode": "18",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 48,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.345652656,
+                    -2.461483016
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sulawesi Barat",
+                "provinceCode": "76",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 36,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.470698,
+                    -7.926466
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Daerah Istimewa Yogyakarta",
+                "provinceCode": "34",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 50,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.12142166,
+                    -0.086370111
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kalimantan Barat",
+                "provinceCode": "61",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 40,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.182468849,
+                    -9.260493546
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Nusa Tenggara Timur",
+                "provinceCode": "53",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 56,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.723784739,
+                    -1.699425239
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Jambi",
+                "provinceCode": "15",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 53,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.200893531,
+                    -1.003444287
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sulawesi Tengah",
+                "provinceCode": "72",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 55,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.522576588,
+                    -2.622562208
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua",
+                "provinceCode": "91",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 53,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.439803686,
+                    -2.992482715
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kalimantan Selatan",
+                "provinceCode": "63",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 40,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.337103407,
+                    -3.533112102
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Bengkulu",
+                "provinceCode": "17",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 56,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.615991,
+                    -8.611309
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Nusa Tenggara Barat",
+                "provinceCode": "52",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 54,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.519776595,
+                    1.256499999
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sulawesi Utara",
+                "provinceCode": "71",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 40,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.376296556,
+                    0.686769426
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Gorontalo",
+                "provinceCode": "75",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 37,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.070013769,
+                    -4.123954933
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Sulawesi Tenggara",
+                "provinceCode": "74",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 34,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.549933151,
+                    -2.447443816
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kepulauan Bangka Belitung",
+                "provinceCode": "19",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 53,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439329901,
+                    -4.266919862
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua Pegunungan",
+                "provinceCode": "95",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 41,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.215925461,
+                    2.888766331
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Kalimantan Utara",
+                "provinceCode": "65",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 26,
+                "alertLevel": "rendah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.540782159,
+                    -3.882597826
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua Tengah",
+                "provinceCode": "94",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 35,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.830978632,
+                    -4.726023284
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Maluku",
+                "provinceCode": "81",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 70,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.60041183,
+                    -2.603158887
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua Barat",
+                "provinceCode": "92",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 23,
+                "alertLevel": "rendah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.540180824,
+                    0.212617911
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Maluku Utara",
+                "provinceCode": "82",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 39,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.525798039,
+                    -6.654737644
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua Selatan",
+                "provinceCode": "93",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 36,
+                "alertLevel": "sedang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.903095052,
+                    -1.080487744
+                ]
+            },
+            "properties": {
+                "locationLevel": "province",
+                "provinceName": "Papua Barat Daya",
+                "provinceCode": "96",
+                "cityName": "",
+                "cityCode": "",
+                "isDanger": true,
+                "alertScore": 39,
+                "alertLevel": "sedang"
+            }
+        }
+    ]
+}

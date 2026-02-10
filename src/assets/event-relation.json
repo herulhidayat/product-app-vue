@@ -1,0 +1,4848 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 111,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 37,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 23,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 18,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        127.45439,
+                        -0.139874
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 17,
+                "targetCode": "82",
+                "targetName": "Maluku Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        110.699501,
+                        -0.290678
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 12,
+                "targetCode": "61",
+                "targetName": "Kalimantan Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        116.956252,
+                        0.324227
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 12,
+                "targetCode": "64",
+                "targetName": "Kalimantan Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 9,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 8,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 8,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        96.57063,
+                        3.634133
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 7,
+                "targetCode": "11",
+                "targetName": "Aceh",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        113.339976,
+                        -1.367611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 7,
+                "targetCode": "62",
+                "targetName": "Kalimantan Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 6,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        117.615991,
+                        -8.611309
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 6,
+                "targetCode": "52",
+                "targetName": "Nusa Tenggara Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        130.818926,
+                        -0.969933
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 6,
+                "targetCode": "96",
+                "targetName": "Papua Barat Daya",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        122.098663,
+                        -9.040412
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 3,
+                "targetCode": "53",
+                "targetName": "Nusa Tenggara Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        122.473751,
+                        -4.555016
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 3,
+                "targetCode": "74",
+                "targetName": "Sulawesi Tenggara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 2,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        113.310034,
+                        -7.533164
+                    ],
+                    [
+                        102.572666,
+                        -3.959454
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3953,
+                "sourceCode": "35",
+                "sourceName": "Jawa Timur",
+                "targetTotal": 2,
+                "targetCode": "17",
+                "targetName": "Bengkulu",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 172,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 42,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        105.963696,
+                        -6.463293
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 35,
+                "targetCode": "36",
+                "targetName": "Banten",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 14,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        104.99577,
+                        -5.206114
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 8,
+                "targetCode": "18",
+                "targetName": "Lampung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        102.729351,
+                        -1.531075
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 6,
+                "targetCode": "15",
+                "targetName": "Jambi",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        121.931904,
+                        -1.066784
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 6,
+                "targetCode": "72",
+                "targetName": "Sulawesi Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        101.949622,
+                        0.782057
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 5,
+                "targetCode": "14",
+                "targetName": "Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 4,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 4,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        110.699501,
+                        -0.290678
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 4,
+                "targetCode": "61",
+                "targetName": "Kalimantan Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 4,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        136.322382,
+                        -3.688592
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 4,
+                "targetCode": "94",
+                "targetName": "Papua Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 3,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 3,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        116.956252,
+                        0.324227
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 2,
+                "targetCode": "64",
+                "targetName": "Kalimantan Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        122.473751,
+                        -4.555016
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 2,
+                "targetCode": "74",
+                "targetName": "Sulawesi Tenggara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        130.818926,
+                        -0.969933
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 2,
+                "targetCode": "96",
+                "targetName": "Papua Barat Daya",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        107.548464,
+                        -6.814611
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 3580,
+                "sourceCode": "32",
+                "sourceName": "Jawa Barat",
+                "targetTotal": 1,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 441,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 254,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 219,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        116.956252,
+                        0.324227
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 161,
+                "targetCode": "64",
+                "targetName": "Kalimantan Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 65,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        105.963696,
+                        -6.463293
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 60,
+                "targetCode": "36",
+                "targetName": "Banten",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 52,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 40,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 37,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        96.57063,
+                        3.634133
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 36,
+                "targetCode": "11",
+                "targetName": "Aceh",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        101.949622,
+                        0.782057
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 35,
+                "targetCode": "14",
+                "targetName": "Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 35,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 29,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        104.99577,
+                        -5.206114
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 23,
+                "targetCode": "18",
+                "targetName": "Lampung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        122.098663,
+                        -9.040412
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 22,
+                "targetCode": "53",
+                "targetName": "Nusa Tenggara Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 20,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        125.11476,
+                        2.171125
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 16,
+                "targetCode": "71",
+                "targetName": "Sulawesi Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        113.339976,
+                        -1.367611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 14,
+                "targetCode": "62",
+                "targetName": "Kalimantan Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        106.723724,
+                        -5.982508
+                    ],
+                    [
+                        122.473751,
+                        -4.555016
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2957,
+                "sourceCode": "31",
+                "sourceName": "Dki Jakarta",
+                "targetTotal": 14,
+                "targetCode": "74",
+                "targetName": "Sulawesi Tenggara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 104,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 37,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 31,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 25,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        104.99577,
+                        -5.206114
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 11,
+                "targetCode": "18",
+                "targetName": "Lampung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 8,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        102.729351,
+                        -1.531075
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 6,
+                "targetCode": "15",
+                "targetName": "Jambi",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        105.963696,
+                        -6.463293
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 6,
+                "targetCode": "36",
+                "targetName": "Banten",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 6,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        127.45439,
+                        -0.139874
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 6,
+                "targetCode": "82",
+                "targetName": "Maluku Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 5,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        122.098663,
+                        -9.040412
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 5,
+                "targetCode": "53",
+                "targetName": "Nusa Tenggara Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        121.931904,
+                        -1.066784
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 5,
+                "targetCode": "72",
+                "targetName": "Sulawesi Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        117.615991,
+                        -8.611309
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 4,
+                "targetCode": "52",
+                "targetName": "Nusa Tenggara Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        122.473751,
+                        -4.555016
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 3,
+                "targetCode": "74",
+                "targetName": "Sulawesi Tenggara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 2,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        115.1263,
+                        -8.464214
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 2,
+                "targetCode": "51",
+                "targetName": "Bali",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        116.956252,
+                        0.324227
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 2,
+                "targetCode": "64",
+                "targetName": "Kalimantan Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        110.221053,
+                        -7.167126
+                    ],
+                    [
+                        119.302116,
+                        -2.345814
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2800,
+                "sourceCode": "33",
+                "sourceName": "Jawa Tengah",
+                "targetTotal": 2,
+                "targetCode": "76",
+                "targetName": "Sulawesi Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 72,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        96.57063,
+                        3.634133
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 7,
+                "targetCode": "11",
+                "targetName": "Aceh",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 5,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 4,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 4,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 3,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        101.949622,
+                        0.782057
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "14",
+                "targetName": "Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        102.729351,
+                        -1.531075
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "15",
+                "targetName": "Jambi",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        131.464944,
+                        -5.799643
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "81",
+                "targetName": "Maluku",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        133.667953,
+                        -2.852964
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "92",
+                "targetName": "Papua Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 2,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 1,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        110.699501,
+                        -0.290678
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 1,
+                "targetCode": "61",
+                "targetName": "Kalimantan Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98.602243,
+                        1.392903
+                    ],
+                    [
+                        130.818926,
+                        -0.9699329999999999
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 2014,
+                "sourceCode": "12",
+                "sourceName": "Sumatera Utara",
+                "targetTotal": 1,
+                "targetCode": "96",
+                "targetName": "Papua Barat Daya",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 69,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        121.931904,
+                        -1.066784
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 18,
+                "targetCode": "72",
+                "targetName": "Sulawesi Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 12,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 9,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        122.473751,
+                        -4.555016
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 9,
+                "targetCode": "74",
+                "targetName": "Sulawesi Tenggara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        116.956252,
+                        0.324227
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 8,
+                "targetCode": "64",
+                "targetName": "Kalimantan Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        96.57063,
+                        3.634133
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 6,
+                "targetCode": "11",
+                "targetName": "Aceh",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        122.098663,
+                        -9.040412
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 4,
+                "targetCode": "53",
+                "targetName": "Nusa Tenggara Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 3,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 3,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        119.302116,
+                        -2.345814
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 3,
+                "targetCode": "76",
+                "targetName": "Sulawesi Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 2,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 2,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        125.11476,
+                        2.171125
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 2,
+                "targetCode": "71",
+                "targetName": "Sulawesi Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        137.275557,
+                        -2.159498
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 2,
+                "targetCode": "91",
+                "targetName": "Papua",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 1,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        116.580753,
+                        3.104481
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 1,
+                "targetCode": "65",
+                "targetName": "Kalimantan Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        122.335929,
+                        0.676078
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 1,
+                "targetCode": "75",
+                "targetName": "Gorontalo",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        120.069792,
+                        -4.719995
+                    ],
+                    [
+                        131.464944,
+                        -5.799643
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1535,
+                "sourceCode": "73",
+                "sourceName": "Sulawesi Selatan",
+                "targetTotal": 1,
+                "targetCode": "81",
+                "targetName": "Maluku",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 69,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 55,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 44,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        101.949622,
+                        0.782057
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 9,
+                "targetCode": "14",
+                "targetName": "Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 2,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        110.699501,
+                        -0.290678
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 1,
+                "targetCode": "61",
+                "targetName": "Kalimantan Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        105.963696,
+                        -6.463293
+                    ],
+                    [
+                        133.667953,
+                        -2.852964
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1513,
+                "sourceCode": "36",
+                "sourceName": "Banten",
+                "targetTotal": 1,
+                "targetCode": "92",
+                "targetName": "Papua Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 31,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 16,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 12,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        104.341874,
+                        -3.463585
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 8,
+                "targetCode": "16",
+                "targetName": "Sumatera Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 6,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        96.57063,
+                        3.634133
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 5,
+                "targetCode": "11",
+                "targetName": "Aceh",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 4,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        110.699501,
+                        -0.290678
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 4,
+                "targetCode": "61",
+                "targetName": "Kalimantan Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        115.1263,
+                        -8.464214
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 3,
+                "targetCode": "51",
+                "targetName": "Bali",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        117.615991,
+                        -8.611309
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 3,
+                "targetCode": "52",
+                "targetName": "Nusa Tenggara Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 2,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 2,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        105.963696,
+                        -6.463293
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 1,
+                "targetCode": "36",
+                "targetName": "Banten",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        113.339976,
+                        -1.367611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 1,
+                "targetCode": "62",
+                "targetName": "Kalimantan Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        101.949622,
+                        0.782057
+                    ],
+                    [
+                        116.580753,
+                        3.104481
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1184,
+                "sourceCode": "14",
+                "sourceName": "Riau",
+                "targetTotal": 1,
+                "targetCode": "65",
+                "targetName": "Kalimantan Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 46,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 9,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        104.99577,
+                        -5.206114
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 7,
+                "targetCode": "18",
+                "targetName": "Lampung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 7,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        107.000521,
+                        -2.623158
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 6,
+                "targetCode": "19",
+                "targetName": "Kepulauan Bangka Belitung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        102.729351,
+                        -1.531075
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 5,
+                "targetCode": "15",
+                "targetName": "Jambi",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        101.949622,
+                        0.782057
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 4,
+                "targetCode": "14",
+                "targetName": "Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 4,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 2,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 2,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 2,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        125.11476,
+                        2.171125
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 2,
+                "targetCode": "71",
+                "targetName": "Sulawesi Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 2,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 1,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        110.470698,
+                        -7.926466
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 1,
+                "targetCode": "34",
+                "targetName": "Daerah Istimewa Yogyakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        113.339976,
+                        -1.367611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 1,
+                "targetCode": "62",
+                "targetName": "Kalimantan Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        104.341874,
+                        -3.463585
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1119,
+                "sourceCode": "16",
+                "sourceName": "Sumatera Selatan",
+                "targetTotal": 1,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        106.723724,
+                        -5.982508
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 36,
+                "targetCode": "31",
+                "targetName": "Dki Jakarta",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        113.310034,
+                        -7.533164
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 6,
+                "targetCode": "35",
+                "targetName": "Jawa Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        117.615991,
+                        -8.611309
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 6,
+                "targetCode": "52",
+                "targetName": "Nusa Tenggara Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        107.548464,
+                        -6.814611
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 4,
+                "targetCode": "32",
+                "targetName": "Jawa Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        116.580753,
+                        3.104481
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 4,
+                "targetCode": "65",
+                "targetName": "Kalimantan Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        119.302116,
+                        -2.345814
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 4,
+                "targetCode": "76",
+                "targetName": "Sulawesi Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        121.931904,
+                        -1.066784
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 3,
+                "targetCode": "72",
+                "targetName": "Sulawesi Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        104.99577,
+                        -5.206114
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 2,
+                "targetCode": "18",
+                "targetName": "Lampung",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        110.221053,
+                        -7.167126
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 2,
+                "targetCode": "33",
+                "targetName": "Jawa Tengah",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        115.847722,
+                        -3.102531
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 2,
+                "targetCode": "63",
+                "targetName": "Kalimantan Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        139.19495,
+                        -4.045029
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 2,
+                "targetCode": "95",
+                "targetName": "Papua Pegunungan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        98.602243,
+                        1.392903
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "12",
+                "targetName": "Sumatera Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        100.082496,
+                        -1.541785
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "13",
+                "targetName": "Sumatera Barat",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        105.108895,
+                        1.285528
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "21",
+                "targetName": "Kepulauan Riau",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        122.098663,
+                        -9.040412
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "53",
+                "targetName": "Nusa Tenggara Timur",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        120.069792,
+                        -4.719995
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "73",
+                "targetName": "Sulawesi Selatan",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        116.956252,
+                        0.324227
+                    ],
+                    [
+                        127.45439,
+                        -0.139874
+                    ]
+                ]
+            },
+            "properties": {
+                "sourceTotal": 1064,
+                "sourceCode": "64",
+                "sourceName": "Kalimantan Timur",
+                "targetTotal": 1,
+                "targetCode": "82",
+                "targetName": "Maluku Utara",
+                "radiusSize": 0,
+                "fillColor": {
+                    "key": "",
+                    "value": null
+                }
+            }
+        }
+    ]
+}
