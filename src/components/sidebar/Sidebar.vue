@@ -60,7 +60,7 @@ onMounted(() => {
         <ul class="menu w-full grow">
           <!-- List item -->
           <li v-for="menu in mainRouteConfig" :key="menu.name">
-            <button class="is-drawer-close:tooltip is-drawer-close:tooltip-right" :class="checkRouteActive(menu.path) && 'bg-neutral-300'" :data-tip="menu.name" @click="navigate(menu.path)">
+            <button class="is-drawer-close:tooltip is-drawer-close:tooltip-right" :class="checkRouteActive(menu.path) && 'bg-neutral-300 dark:bg-base-100'" :data-tip="menu.name" @click="navigate(menu.path)">
               <!-- Home icon -->
               <component :is="menu.icon" class="my-1.5 inline-block size-4" />
               <span class="is-drawer-close:hidden">{{ menu.name }}</span>
