@@ -16,7 +16,7 @@ onMounted(() => {
 <template>
   <div v-if="request.isLoading?.value">
     <div class="p-3 flex flex-row overflow-auto custom-scrollbar gap-4">
-      <div v-for="i in 5" :key="i" class="h-36 rounded-xl w-50 shrink-0 animate-pulse bg-gray-700" />
+      <div v-for="i in 5" :key="i" class="h-36 rounded-xl w-50 shrink-0 animate-pulse dark:bg-gray-600 bg-gray-200" />
     </div>
   </div>
 
@@ -31,7 +31,7 @@ onMounted(() => {
           {{ person?.key?.charAt(0)?.toUpperCase() || '-' }}
         </div>
         <div class="text-center">
-          <h4 class="font-semibold text-lg capitalize max-lines-1" :title="person.key">{{ person?.key }}</h4>
+          <h4 class="font-semibold text-sm capitalize max-lines-1" :title="person.key">{{ person?.key }}</h4>
           <p class="text-sm text-gray-500 dark:text-gray-400">{{ formatThousand(person?.value) }}</p>
         </div>
       </div>

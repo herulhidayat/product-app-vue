@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory, type RouteRecordRaw } from "vue-router"
 import { useAuth } from "../services/auth.services"
+import { mainRouteConfig } from "../configs/menu.config"
 
 const routes: RouteRecordRaw[] = [
     {
@@ -11,12 +12,16 @@ const routes: RouteRecordRaw[] = [
         }
     },
     {
+        component: () => import('@components/layouts/MainLayout.vue'),
         path: '/',
-        name: 'Home',
-        component: () => import('@pages/Home.vue'),
         meta: {
             requiresAuth: true
-        }
+        },
+        children: mainRouteConfig.map(route => ({
+            path: route.path,
+            name: route.name,
+            component: route.component
+        }))
     }
 ]
 

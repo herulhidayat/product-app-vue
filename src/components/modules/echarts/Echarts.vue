@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import * as echarts from 'echarts'
 import { ref, watch, onMounted, onUnmounted, nextTick, type Ref, shallowRef } from 'vue'
-import { useDebounceFn } from '@vueuse/core'
+import { useDebounceFn, useElementSize } from '@vueuse/core'
 import { DARK_THEME, LIGHT_THEME } from './config/echarts-theme.config'
 import { isDark } from '../../../helper/theme.helper'
 
@@ -16,6 +16,8 @@ const props = defineProps<Props>()
 const chartRef = ref<HTMLDivElement | null>(null)
 const chartInstance = shallowRef<echarts.ECharts | null>(null)
 const chartOptions = ref<any>(null)
+
+const { width } = useElementSize(chartRef)
 
 function initChart() {
   if (!chartRef.value || chartInstance.value) return
@@ -82,6 +84,10 @@ watch(isDark, () => {
   }
 })
 
+watch(width, () => {
+  handleResize()
+})
+
 watch(chartInstance, (newChart, oldChart) => {
   if (oldChart) {
     window.removeEventListener('resize', handleResize)
@@ -106,7 +112,7 @@ onUnmounted(() => {
 <template>
   <div class="h-80 w-full">
     <div v-if="props.isLoading?.value" class="h-full flex items-center justify-center p-3">
-      <div class="h-full rounded-xl w-full shrink-0 animate-pulse bg-gray-700"></div>
+      <div class="h-full rounded-xl w-full shrink-0 animate-pulse dark:bg-gray-600 bg-gray-200"></div>
     </div>
 
     <div
