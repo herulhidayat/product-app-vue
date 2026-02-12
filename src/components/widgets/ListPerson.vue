@@ -25,7 +25,7 @@ onMounted(() => {
   </div>
 
   <div v-else class="flex flex-row overflow-auto custom-scrollbar gap-4 pt-3 pb-1 px-3">
-    <div v-for="person in request?.data?.value" :key="person?.id" class="p-4 gap-4 border dark:border-gray-700 border-gray-300 dark:bg-gray-800 bg-gray-100 rounded-xl w-50 shrink-0">
+    <div v-for="person in request?.data?.value" :key="person?.id" class="p-4 gap-4 border dark:border-gray-800 border-gray-200 bg-base-200 rounded-xl w-50 shrink-0">
       <div class="flex flex-col items-center gap-4">
         <div class="w-12 h-12 rounded-full bg-gray-300 dark:bg-gray-700 flex items-center justify-center text-xl font-bold text-gray-600 dark:text-gray-400">
           {{ person?.key?.charAt(0)?.toUpperCase() || '-' }}

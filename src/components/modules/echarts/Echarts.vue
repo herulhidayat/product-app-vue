@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import * as echarts from 'echarts'
 import { ref, watch, onMounted, onUnmounted, nextTick, type Ref, shallowRef } from 'vue'
-import { useDark, useDebounceFn } from '@vueuse/core'
+import { useDebounceFn } from '@vueuse/core'
 import { DARK_THEME, LIGHT_THEME } from './config/echarts-theme.config'
+import { isDark } from '../../../helper/theme.helper'
 
 interface Props {
   options?: Ref<any>
@@ -15,8 +16,6 @@ const props = defineProps<Props>()
 const chartRef = ref<HTMLDivElement | null>(null)
 const chartInstance = shallowRef<echarts.ECharts | null>(null)
 const chartOptions = ref<any>(null)
-
-const isDark = useDark()
 
 function initChart() {
   if (!chartRef.value || chartInstance.value) return

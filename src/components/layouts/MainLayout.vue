@@ -1,11 +1,15 @@
 <script setup lang="ts">
+import Sidebar from '../sidebar/Sidebar.vue';
+
 
 </script>
 
 <template>
-  <div class="min-h-screen dark:bg-gray-900 bg-gray-50 dark:text-white text-black">
-    <div class="container mx-auto px-4 py-8">
-      <slot />
+  <sidebar>
+    <div class="min-h-screen bg-base-100 dark:text-white text-black">
+      <div class="container mx-auto px-4 py-8">
+        <slot />
+      </div>
     </div>
-  </div>
+  </sidebar>
 </template>

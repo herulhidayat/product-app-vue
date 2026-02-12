@@ -31,8 +31,8 @@ watch(data, () => {
     <form @submit.prevent="handleClickLogin">
       <div class="flex flex-col gap-4">
         <div class="mb-8">
-          <h1 class="text-2xl font-bold text-white">Login</h1>
-          <p class="text-white/70 mt-1">Please login to your account</p>
+          <h1 class="text-2xl font-bold dark:text-white text-black">Login</h1>
+          <p class="dark:text-white/70 text-black/70 mt-1">Please login to your account</p>
         </div>
         <div v-show="error" class="w-full p-4 rounded-md border border-red-500 bg-red-950 text-center">
           <p class="text-red-500 text-sm/6">Email or Password is invalid</p>
@@ -46,7 +46,7 @@ watch(data, () => {
               name="email" 
               type="email" 
               autocomplete="email"
-              class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base darak:text-white dark:text-white text-black outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-green-500 sm:text-sm/6" 
+              class="block w-full rounded-md dark:bg-white/5 bg-white px-3 py-1.5 text-base dark:text-white text-black outline-1 -outline-offset-1 dark:outline-white/10 outline-black/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-green-500 sm:text-sm/6" 
             />
           </div>
         </div>
@@ -58,7 +58,7 @@ watch(data, () => {
               v-model="password"
               name="password" 
               :type="isShowPassword ? 'text' : 'password'" 
-              class="block w-full rounded-md bg-white/5 px-3 py-1.5 text-base darak:text-white dark:text-white text-black outline-1 -outline-offset-1 outline-white/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-green-500 sm:text-sm/6"
+              class="block w-full rounded-md dark:bg-white/5 bg-white px-3 py-1.5 text-base dark:text-white text-black outline-1 -outline-offset-1 dark:outline-white/10 outline-black/10 placeholder:text-gray-500 focus:outline-2 focus:-outline-offset-2 focus:outline-green-500 sm:text-sm/6" 
             >
             <div class="absolute inset-y-0 right-0 pr-3 flex items-center" @click="isShowPassword = !isShowPassword">
               <div v-if="isShowPassword" class="cursor-pointer">
